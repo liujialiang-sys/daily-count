@@ -1,0 +1,19 @@
+{
+  "name": "每日攒量",
+  "short_name": "攒量",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6fa",
+  "theme_color": "#5b7cfa",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3Crect%20width='512'%20height='512'%20rx='110'%20fill='%235b7cfa'/%3E%3Crect%20x='110'%20y='290'%20width='60'%20height='120'%20rx='18'%20fill='%23fff'%20opacity='0.55'/%3E%3Crect%20x='226'%20y='220'%20width='60'%20height='190'%20rx='18'%20fill='%23fff'%20opacity='0.8'/%3E%3Crect%20x='342'%20y='140'%20width='60'%20height='270'%20rx='18'%20fill='%23fff'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
